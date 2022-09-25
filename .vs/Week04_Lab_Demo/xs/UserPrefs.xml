@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2307968C-86C7-C177-A082-88415AAA1FF2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotateMe.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraSwitch.cs" Line="16" Column="40" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/RotateMe.cs" Line="7" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7819f076-9099-478c-8c13-7a67c7815dcd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
